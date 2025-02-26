@@ -17,7 +17,7 @@ Before diving deep into AI, I was hustling jailbroken Kodi devices (check my jou
 3. The 4-Hour Work Week (been chasing this dream for 10+ years!)
 
 ## 💡 The $20K Gamble That Started It All
-With a $20K loan from our local Real Estate Investment Association leader, I launched Local House Buyers. First real production build? www.sellyouroklahomahouse.com (still buying if you're selling! 😎). This is where I first worked with Podio - a CRM for real estate that uses PHP and Globiflow workflows, which sparked my obsession with development and automation.
+With a $20K loan from our local Real Estate Investment Association leader, I launched Local House Buyers. First real production build?  (still buying if you're selling! 😎). This is where I first worked with Podio - a CRM for real estate that uses PHP and Globiflow workflows, which sparked my obsession with development and automation.
 
 ## 🔥 The Breaking Point & Transformation
 2024 hit hard. A developer named Idriss Echreiff brought me a project called up2dataproperty. Long story short - I got burned, lost money, and hit rock bottom. But thanks to real estate strategies like Subject 2 investing, I managed to keep my head above water.
